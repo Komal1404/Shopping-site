@@ -1,2 +1,2 @@
 # Shopping-site
-Project on java
+Project on java and MySql
